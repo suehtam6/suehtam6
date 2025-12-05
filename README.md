@@ -51,16 +51,6 @@ Me chamo Matheus Lucas, tenho 20 anos. Estou fazendo o curso técnico de Desenvo
   <a href="https://www.linkedin.com/in/matheus-lucas-5164ba31a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### 📊 Estatísticas
-<p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=suehtam6&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 
