@@ -52,7 +52,7 @@ Me chamo Matheus Lucas, tenho 20 anos. Estou fazendo o curso técnico de Desenvo
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/PyetroSouza/PyetroSouza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/PyetroSouza/PyetroSouza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: red)" srcset="https://raw.githubusercontent.com/PyetroSouza/GabrielaZanetti/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PyetroSouza/PyetroSouza/output/github-contribution-grid-snake.svg">
 </picture>
