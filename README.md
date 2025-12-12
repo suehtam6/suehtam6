@@ -51,11 +51,14 @@ Me chamo Matheus Lucas, tenho 20 anos. Estou fazendo o curso técnico de Desenvo
   <a href="https://www.linkedin.com/in/matheus-lucas-5164ba31a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PyetroSouza/PyetroSouza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PyetroSouza/GabrielaZanetti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PyetroSouza/PyetroSouza/output/github-contribution-grid-snake.svg">
-</picture>
+---
+  <div align="center">
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suehtam6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+---
+
 
 
 
