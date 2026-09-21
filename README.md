@@ -19,7 +19,7 @@ Estou em constante aprendizado, focando no desenvolvimento de soluções eficien
 | **Redes / Simulação** | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-00BCEB?style=flat-square&logo=cisco&logoColor=white) ![Tinkercad](https://img.shields.io/badge/Tinkercad-F9A03F?style=flat-square&logo=tinkercad&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) |
 | **DevOps / Outros** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 | **Testes API** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| **Metodologias** | `Agile` `Scrum` `Kanban` `OKRs` `Business Agility` |
+| **Metodologias** | `Scrum` `Kanban` |
 
 ### 📫 Vamos nos conectar?
 
