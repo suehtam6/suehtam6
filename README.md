@@ -19,10 +19,10 @@
     <td width="50%" style="border: none; vertical-align: top;">
       <h3>👨‍💻 Sobre Mim</h3>
       <ul>
-        <li>🔭 A desenvolver o <b>OROSCORP</b>, um sistema de monitorização de EPIs integrado com IA.</li>
-        <li>🌱 A aprofundar estudos em <b>Node.js, Java e Arquitetura Back-end</b>.</li>
+        <li>🔭 Desenvolvendo o <b>OROSCORP</b>, um sistema de monitoramento de EPIs integrado com IA.</li>
+        <li>🌱 Aprofundando estudos em <b>Node.js, Java e Arquitetura Back-end</b>.</li>
         <li>🎓 Estudante de Desenvolvimento de Sistemas no <b>SENAI Jandira</b>.</li>
-        <li>💡 <b>Interesses:</b> IoT, Eletrónica, Clean Code e Automação.</li>
+        <li>💡 <b>Interesses:</b> IoT, Eletrônica, Clean Code e Automação.</li>
       </ul>
     </td>
     <td width="50%" style="border: none; vertical-align: middle;" align="center">
@@ -36,9 +36,32 @@
 
 <div align="center">
   <h3>🚀 Tecnologias e Ferramentas</h3>
+  <br/>
+  
+  <h4>💻 Linguagens</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,kotlin,python,html,css,tailwind,nextjs&theme=dark" /><br><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,androidstudio,git,github,postman,figma,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,java,kotlin,python&theme=dark" alt="Linguagens" />
+  </a>
+  
+  <br/><br/>
+  
+  <h4>🌐 Front-End</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css&theme=dark" alt="Front-End" />
+  </a>
+  
+  <br/><br/>
+  
+  <h4>⚙️ Back-End & Banco de Dados</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" alt="Back-End e BD" />
+  </a>
+  
+  <br/><br/>
+  
+  <h4>🛠️ Ferramentas, Mobile & SO</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,git,github,postman,figma,linux&theme=dark" alt="Ferramentas" />
   </a>
 </div>
 
@@ -47,14 +70,8 @@
 
 
 <div align="center">
-  <h3>🏆 Conquistas</h3>
+  <h3>📊 Estatísticas do GitHub</h3>
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suehtam6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do GitHub" />
-  </a>
-</div>
-  
-  <br/><br/>
   
   
   <a href="https://github.com/suehtam6">
@@ -65,7 +82,6 @@
 
 <br/>
 <br/>
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=suehtam6&color=3B82F6&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
